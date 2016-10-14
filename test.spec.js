@@ -16,7 +16,7 @@ function Operator(){
 			return ope = ' + ';
 		}
 		else if(ope===2){
-			return ope = ' - '; 
+			return ope = ' - ';
 		}
 	}
 }
